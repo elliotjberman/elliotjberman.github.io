@@ -1,5 +1,6 @@
 void setup() {
-  size(500, 250);
+size( $(window).width(),
+  $(window).height() );
   background(255);
 }
 
