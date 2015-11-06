@@ -61,8 +61,8 @@ input:focus{
   font-size: 5em;
 }
 #intro-box{
-  background-color: rgba(255,255,255, .3);
-  padding: 20px;
+  /*background-color: rgba(255,255,255, .3);
+  padding: 20px;*/
 }
 
 #config-access{
@@ -152,9 +152,10 @@ input:focus{
   padding-right: 10px;
   padding-top: 10px;
   float: right;
+  opacity: .6;
 }
 #keepGoing:hover{
-  opacity: .6;
+  opacity: 1;
 }
 #complete{
     background-color: rgba(255,255,255, .3);
