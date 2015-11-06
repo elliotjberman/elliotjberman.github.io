@@ -1,1 +1,1 @@
-# imagarena
+# Imagerena prototype game
